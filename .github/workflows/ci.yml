@@ -2,9 +2,6 @@ name: Continous integration test suite
 
 on:
   push:
-    branches:
-      - dev
-      - main
 
 jobs:
   build:
