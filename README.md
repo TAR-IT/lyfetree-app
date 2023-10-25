@@ -1,6 +1,8 @@
 # Lyfetree
-This is the "Lyfetree" repository. Lyfetree is an app for documenting personal accomplishments and "skills" achieved in life. The purpose of this app is for it to be used as a personal online diary.
-This project was brought to life purely for fun and we are not actively working on this repository.
+This is the "Lyfetree" repository - an app that allows you to document personal achievements and "skills" - so-called "milestones" - in a family tree-like structure.
+this project is a free time activity of me and my colleagues, which is why CI/CD is not planned for the time being.
+
+Note: The latest version of the project can be found under the branch "v1" - in main no pulls will be done before finishing development on the first version.
 ## UX
 No user experience requirements have been set yet.
 ### User Stories
