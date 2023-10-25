@@ -9,12 +9,12 @@
         {% for milestone in user_milestones %}
             <li>
                 {{ milestone.title }}
-                <a href="{% url 'customize_milestone' milestone_id=milestone.id %}" class="btn btn-secondary">Edit</a>
+                <a href="" class="btn btn-secondary">Edit</a>
                 <!-- Display other milestone fields here -->
             </li>
         {% endfor %}
     </ul>
 
     <!-- Button for creating a new milestone -->
-    <a href="{% url 'create_milestone' %}" class="btn btn-primary">Create Milestone</a>
+    <a href="" class="btn btn-primary">Create Milestone</a>
 {% endblock %}
