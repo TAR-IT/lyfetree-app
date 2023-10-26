@@ -39,7 +39,7 @@ How to install and run the "Lyfetree" app on a local server/machine via a reposi
 1. Fork/clone the repository.
 2. Open the terminal and cd into the local repository folder.
 3. In the repository, create a file called ".env" in the root folder of the repository for enviromental variables and generate a secret key (you can use whatever generator you like or type in any prefered combination of letters, numbers and symbols - but keep it strong, safe and secret)
-4. Crate local variables by pasting the following lines in your .env file (where everything in quotation marks hast to be replaced with the actual value):
+4. Crate local variables by pasting the following lines in your .env file (where everything in quotation marks has to be replaced with the actual value):
 ```bash
 DEBUG=True
 ALLOWED_HOSTS=localhost,127.0.0.1
